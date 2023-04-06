@@ -1,0 +1,357 @@
+﻿++Solución "Responsive-Website-ASP.NET-Bootstrap-Tutorial" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:Responsive-Website-ASP.NET-Bootstrap-Tutorial.sln
+++Responsive-Website-ASP.NET-Bootstrap-Tutorial(1)
+i:{00000000-0000-0000-0000-000000000000}:Responsive-Website-ASP.NET-Bootstrap-Tutorial(1)
+++.vs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\
+++App_WebReferences
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\
+++WsClientes
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wsclientes\
+++WsClientes.discomap
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wsclientes\wsclientes.discomap
+++WsLogin
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wslogin\
+++WsLogin.discomap
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wslogin\wslogin.discomap
+++WsLogin.disco
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wslogin\wslogin.disco
+++WsLogin.wsdl
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wslogin\wslogin.wsdl
+++Bin
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\bin\
+++css
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\
+++fonts
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\fonts\
+++Images
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\
+++js
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\js\
+++.gitattributes
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.gitattributes
+++.gitignore
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.gitignore
+++AddBrand.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addbrand.aspx
+++AddCategory.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addcategory.aspx
+++AddGender.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addgender.aspx
+++AddProduct.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addproduct.aspx
+++AddSize.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addsize.aspx
+++AddSubCategory.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addsubcategory.aspx
+++AdminHome.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\adminhome.aspx
+++AdminMaster.master
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\adminmaster.master
+++ASP_Bootstrap_Databse_Query.sql
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\asp_bootstrap_databse_query.sql
+++Callback.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\callback.aspx
+++Cart.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\cart.aspx
+++Default.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\default.aspx
+++ForgotPassword.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\forgotpassword.aspx
+++GeneralLayout.master
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\generallayout.master
+++Global.asax
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\global.asax
+++Layout_Initial.master
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\layout_initial.master
+++Page_EmpSuc.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\page_empsuc.aspx
+++Page_EmpSuc.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\page_empsuc.aspx.cs
+++Page_Initial.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\page_initial.aspx
+++Page_Login.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\page_login.aspx
+++Page_Login.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\page_login.aspx.cs
+++Payment.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\payment.aspx
+++Products.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\products.aspx
+++Products.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\products.aspx.cs
+++ProductView.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\productview.aspx
+++README.md
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\readme.md
+++RecoverPassword.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\recoverpassword.aspx
+++Responsive-Website-ASP.NET-Bootstrap-Tutorial.sln
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\responsive-website-asp.net-bootstrap-tutorial.sln
+++SignIn.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\signin.aspx
+++SignIn.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\signin.aspx.cs
+++SignUp.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\signup.aspx
+++UserHome.aspx
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\userhome.aspx
+++Web.config
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\web.config
+++Responsive-Website-ASP.NET-Bootstrap-Tutorial
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\responsive-website-asp.net-bootstrap-tutorial\
+++slnx.sqlite
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\slnx.sqlite
+++VSWorkspaceState.json
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\vsworkspacestate.json
+++WsClientes.disco
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wsclientes\wsclientes.disco
+++WsClientes.wsdl
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\app_webreferences\wsclientes\wsclientes.wsdl
+++paytm.dll
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\bin\paytm.dll
+++bootstrap-theme.css
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\bootstrap-theme.min.css
+++bootstrap.css
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\bootstrap.css
+++bootstrap.css.map
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\bootstrap.css.map
+++bootstrap.min.css
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\bootstrap.min.css
+++bootstrap.min.css.map
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\bootstrap.min.css.map
+++Custom-Cs.css
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\css\custom-cs.css
+++glyphicons-halflings-regular.eot
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\fonts\glyphicons-halflings-regular.woff2
+++ProductImages
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\
+++Carousel 01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\carousel 01.jpg
+++Carousel 02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\carousel 02.jpg
+++Carousel 03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\carousel 03.jpg
+++checkout.png
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\checkout.png
+++customer.png
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\customer.png
+++index.png
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\index.png
+++logo.png
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\logo.png
+++noimage.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\noimage.jpg
+++planning.png
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\planning.png
+++shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\shirt01.jpg
+++shopping-list.png
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\shopping-list.png
+++tc only 512.png
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\tc only 512.png
+++Thumb01.jpeg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\thumb01.jpeg
+++Thumb02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\thumb02.jpg
+++Thumb03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\thumb03.jpg
+++bootstrap.js
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\js\bootstrap.js
+++bootstrap.min.js
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\js\bootstrap.min.js
+++jquery-3.2.1.min.js
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\js\jquery-3.2.1.min.js
+++npm.js
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\js\npm.js
+++AddBrand.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addbrand.aspx.cs
+++AddCategory.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addcategory.aspx.cs
+++AddGender.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addgender.aspx.cs
+++AddProduct.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addproduct.aspx.cs
+++AddSize.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addsize.aspx.cs
+++AddSubCategory.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\addsubcategory.aspx.cs
+++AdminHome.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\adminhome.aspx.cs
+++AdminMaster.master.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\adminmaster.master.cs
+++Callback.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\callback.aspx.cs
+++Cart.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\cart.aspx.cs
+++Default.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\default.aspx.cs
+++ForgotPassword.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\forgotpassword.aspx.cs
+++GeneralLayout.master.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\generallayout.master.cs
+++Layout_Initial.master.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\layout_initial.master.cs
+++Page_Initial.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\page_initial.aspx.cs
+++Payment.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\payment.aspx.cs
+++ProductView.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\productview.aspx.cs
+++RecoverPassword.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\recoverpassword.aspx.cs
+++SignUp.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\signup.aspx.cs
+++UserHome.aspx.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\userhome.aspx.cs
+++config
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\responsive-website-asp.net-bootstrap-tutorial\config\
+++v17
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\responsive-website-asp.net-bootstrap-tutorial\v17\
+++project-colors.json
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\responsive-website-asp.net-bootstrap-tutorial\project-colors.json
+++paytm.dll.refresh
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\bin\paytm.dll.refresh
+++10005
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10005\
+++10006
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10006\
+++10007
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10007\
+++10008
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10008\
+++10009
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\
+++10010
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10010\
+++10011
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10011\
+++10012
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10012\
+++7
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\
+++applicationhost.config
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\responsive-website-asp.net-bootstrap-tutorial\config\applicationhost.config
+++HierarchyCache.v1.txt
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\.vs\responsive-website-asp.net-bootstrap-tutorial\v17\hierarchycache.v1.txt
+++WROGN Men Blue Slim Fit Printed Casual Shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10005\wrogn men blue slim fit printed casual shirt01.jpg
+++WROGN Men Blue Slim Fit Printed Casual Shirt02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10005\wrogn men blue slim fit printed casual shirt02.jpg
+++WROGN Men Blue Slim Fit Printed Casual Shirt03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10005\wrogn men blue slim fit printed casual shirt03.jpg
+++WROGN Men Blue Slim Fit Printed Casual Shirt04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10005\wrogn men blue slim fit printed casual shirt04.jpg
+++WROGN Men Blue Slim Fit Printed Casual Shirt05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10005\wrogn men blue slim fit printed casual shirt05.jpg
+++Flying Machine Men Navy Checked Casual Shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10006\flying machine men navy checked casual shirt01.jpg
+++Flying Machine Men Navy Checked Casual Shirt02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10006\flying machine men navy checked casual shirt02.jpg
+++Flying Machine Men Navy Checked Casual Shirt03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10006\flying machine men navy checked casual shirt03.jpg
+++Flying Machine Men Navy Checked Casual Shirt04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10006\flying machine men navy checked casual shirt04.jpg
+++Flying Machine Men Navy Checked Casual Shirt05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10006\flying machine men navy checked casual shirt05.jpg
+++Flying Machine Men Blue Regular Fit Washed Casual Shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10007\flying machine men blue regular fit washed casual shirt01.jpg
+++Flying Machine Men Blue Regular Fit Washed Casual Shirt02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10007\flying machine men blue regular fit washed casual shirt02.jpg
+++Flying Machine Men Blue Regular Fit Washed Casual Shirt03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10007\flying machine men blue regular fit washed casual shirt03.jpg
+++Flying Machine Men Blue Regular Fit Washed Casual Shirt04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10007\flying machine men blue regular fit washed casual shirt04.jpg
+++Flying Machine Men Blue Regular Fit Washed Casual Shirt05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10007\flying machine men blue regular fit washed casual shirt05.jpg
+++Flying Machine Men White Printed Casual Shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10008\flying machine men white printed casual shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\flying machine men white printed casual shirt01.jpg
+++Flying Machine Men White Printed Casual Shirt02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10008\flying machine men white printed casual shirt02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\flying machine men white printed casual shirt02.jpg
+++Flying Machine Men White Printed Casual Shirt03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10008\flying machine men white printed casual shirt03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\flying machine men white printed casual shirt03.jpg
+++Flying Machine Men White Printed Casual Shirt04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10008\flying machine men white printed casual shirt04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\flying machine men white printed casual shirt04.jpg
+++Flying Machine Men White Printed Casual Shirt05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10008\flying machine men white printed casual shirt05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\flying machine men white printed casual shirt05.jpg
+++Polo Shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\polo shirt01.jpg
+++Polo Shirt02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\polo shirt02.jpg
+++Polo Shirt03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\polo shirt03.jpg
+++Polo Shirt04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\polo shirt04.jpg
+++Polo Shirt05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10009\polo shirt05.jpg
+++Men Blue Solid Denim Jacket01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10010\men blue solid denim jacket01.jpg
+++Men Blue Solid Denim Jacket02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10010\men blue solid denim jacket02.jpg
+++Men Blue Solid Denim Jacket03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10010\men blue solid denim jacket03.jpg
+++Men Blue Solid Denim Jacket04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10010\men blue solid denim jacket04.jpg
+++Men Blue Solid Denim Jacket05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10010\men blue solid denim jacket05.jpg
+++Unisex Black & Silver-Toned Marathon Tech Sneakers01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10011\unisex black & silver-toned marathon tech sneakers01.jpg
+++Unisex Black & Silver-Toned Marathon Tech Sneakers02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10011\unisex black & silver-toned marathon tech sneakers02.jpg
+++Unisex Black & Silver-Toned Marathon Tech Sneakers03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10011\unisex black & silver-toned marathon tech sneakers03.jpg
+++Unisex Black & Silver-Toned Marathon Tech Sneakers04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10011\unisex black & silver-toned marathon tech sneakers04.jpg
+++Unisex Black & Silver-Toned Marathon Tech Sneakers05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10011\unisex black & silver-toned marathon tech sneakers05.jpg
+++Women Pink Solid Leather Sleek Sneakers01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10012\women pink solid leather sleek sneakers01.jpg
+++Women Pink Solid Leather Sleek Sneakers02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10012\women pink solid leather sleek sneakers02.jpg
+++Women Pink Solid Leather Sleek Sneakers03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10012\women pink solid leather sleek sneakers03.jpg
+++Women Pink Solid Leather Sleek Sneakers04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10012\women pink solid leather sleek sneakers04.jpg
+++Women Pink Solid Leather Sleek Sneakers05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\10012\women pink solid leather sleek sneakers05.jpg
+++Peter England Men Blue Linen Slim Fit Formal Shirt01
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt01
+++Peter England Men Blue Linen Slim Fit Formal Shirt01.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt01.jpg
+++Peter England Men Blue Linen Slim Fit Formal Shirt02
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt02
+++Peter England Men Blue Linen Slim Fit Formal Shirt02.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt02.jpg
+++Peter England Men Blue Linen Slim Fit Formal Shirt03
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt03
+++Peter England Men Blue Linen Slim Fit Formal Shirt03.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt03.jpg
+++Peter England Men Blue Linen Slim Fit Formal Shirt04
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt04
+++Peter England Men Blue Linen Slim Fit Formal Shirt04.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt04.jpg
+++Peter England Men Blue Linen Slim Fit Formal Shirt05
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt05
+++Peter England Men Blue Linen Slim Fit Formal Shirt05.jpg
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\images\productimages\7\peter england men blue linen slim fit formal shirt05.jpg
+++Layout_Shared.master
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\layout_shared.master
+++Layout_Shared.master.cs
+i:{9a6bc526-43aa-4b21-b13c-5951c8e22c61}:c:\users\denis\documents\sosit\2023\proyectos\innotech\responsive-website\layout_shared.master.cs
