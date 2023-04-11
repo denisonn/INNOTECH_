@@ -1,0 +1,23 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Layout_Shared.master.cs" Inherits="Layout_Shared" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link href="css/Custom-Cs.css" rel="stylesheet" />
+
+    <title>Innotech Web Aplication</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <asp:ContentPlaceHolder id="ContentPlaceHolderInitial" runat="server">        
+        </asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
