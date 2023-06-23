@@ -13,7 +13,7 @@
     <asp:ContentPlaceHolder ID="head" runat="server">
     </asp:ContentPlaceHolder>
 </head>
-<body>
+<body style="background-image:url('Images/gray-abstract.jpg')">
     <form id="form1" runat="server">
         <asp:ContentPlaceHolder id="ContentPlaceHolderInitial" runat="server">        
         </asp:ContentPlaceHolder>

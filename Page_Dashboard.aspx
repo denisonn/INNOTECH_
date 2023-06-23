@@ -3,8 +3,8 @@
 <asp:Content ID="ContentInitial" ContentPlaceHolderID="ContentPlaceHolderInitial" runat="Server">
 <div class="jumbotron-home jumbotron-fluid">
     <div class="container">
-        <p><asp:Label ID="Lbl_Usuario" runat="server" CssClass="font-weight-bolder" style="color: black; font-size:xx-large"></asp:Label></p>
-        <p><asp:Label ID="Lbl_EmpSuc" runat="server" CssClass="font-weight-bolder" style="color: black; font-size:large"></asp:Label></p>
+        <h3><asp:Label ID="Lbl_Usuario" runat="server" CssClass="font-weight-bolder" style="color: white;"></asp:Label></h3>
+        <h5><asp:Label ID="Lbl_EmpSuc" runat="server" CssClass="font-weight-bolder" style="color: white;"></asp:Label></h5>
     </div>
 </div>
 <div class="container">

@@ -15,8 +15,7 @@
     <add key="TimeOut" value="30000"/>
     <add key="WsLogin.WsLogin" value="http://appweb2/WSappmovil/WsLogin.asmx"/>
     <add key="WsClientes.WsClientes" value="http://appweb2/WSappmovil/WsClientes.asmx"/>
-    <add key="WsPedidos.WsPedidos" value="http://appweb2/WSappmovil/WsPedidos.asmx"/>
-    <add key="WsArticulos.WsArticulos" value="http://appweb2/WSappmovil/WsArticulos.asmx"/>
+  <add key="WsPedidos.WsPedidos" value="http://appweb2/WSappmovil/WsPedidos.asmx"/>
   </appSettings>
   <system.serviceModel>
     <bindings/>

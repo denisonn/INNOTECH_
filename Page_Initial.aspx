@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-3"></div>
             <div class="col-6" align="center">
-                <asp:Button ID="Button1" runat="server" Text="INICA SESIÓN" CssClass="btn btn-primary" OnClick="Button1_Click" />
+                <asp:Button ID="Button1" runat="server" Text="INICIA SESIÓN" CssClass="btn btn-primary" OnClick="Button1_Click" />
             </div>
             <div class="col-3"></div>
         </div>
