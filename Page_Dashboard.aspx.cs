@@ -36,11 +36,9 @@ public partial class Page_Dashboard : System.Web.UI.Page
         Response.Redirect("~/Page_Articulos.aspx");
     }
 
-    protected void RouteBtn_Click(object sender, EventArgs e)
+    protected void BtnPRutas_Click(object sender, EventArgs e)
     {
-        Debug.WriteLine("en el evento del MakeLogin_Click");
-        Console.WriteLine("en el evento del MakeLogin_Click");
-        Response.Redirect("~/Page_Clientes.aspx");
+        Response.Redirect("~/Page_PRuta.aspx");
     }
 
 }

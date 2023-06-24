@@ -33,7 +33,7 @@
     <div class="row">
         <div class="col">
             <!--<button type="button" class="btn btn-outline-secondary btn-md btn-block font-weight-bolder text-left" style="font-size: smaller"> <img src="images/planning.png" width="32" height="32"> PLANIFICACIÓN DE RUTAS</button>-->
-            <asp:LinkButton ID="RouteBtn" runat="server" OnClick="RouteBtn_Click" CssClass="btn btn-outline-secondary btn-md btn-block font-weight-bolder text-left" ><img src="images/planning.png" width="32" height="32"> &nbsp;PLANIFICACIÓN DE RUTAS</asp:LinkButton>
+            <asp:LinkButton ID="PRutaBtn" runat="server" OnClick="BtnPRutas_Click" CssClass="btn btn-outline-secondary btn-md btn-block font-weight-bolder text-left" ><img src="images/planning.png" width="32" height="32"> &nbsp;PLANIFICACIÓN DE RUTAS</asp:LinkButton>
         </div>
     </div>
 </div>
